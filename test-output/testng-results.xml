@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78046" started-at="2019-04-07T07:41:09Z" finished-at="2019-04-07T07:42:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78046" started-at="2019-04-07T07:41:09Z" finished-at="2019-04-07T07:42:27Z">
+      <class name="uk.co.zooplatest.uk.qa.testcases.AgentPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:uk.co.zooplatest.uk.qa.testcases.AgentPageTest@2b98378d]" name="SetUp" is-config="true" duration-ms="36694" started-at="2019-04-07T13:11:09Z" finished-at="2019-04-07T13:11:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="getAgentDetailsTest()[pri:0, instance:uk.co.zooplatest.uk.qa.testcases.AgentPageTest@2b98378d]" name="getAgentDetailsTest" duration-ms="39783" started-at="2019-04-07T13:11:45Z" finished-at="2019-04-07T13:12:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAgentDetailsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uk.co.zooplatest.uk.qa.testcases.AgentPageTest@2b98378d]" name="tearDown" is-config="true" duration-ms="1516" started-at="2019-04-07T13:12:25Z" finished-at="2019-04-07T13:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- uk.co.zooplatest.uk.qa.testcases.AgentPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
